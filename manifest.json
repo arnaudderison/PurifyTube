@@ -1,0 +1,9 @@
+{
+  "name": "Purity Extension",
+  "description": "An extension to skip youtube ads",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  }
+}
